@@ -29,8 +29,8 @@
 
 ## :computer: 操作系统
 
-- [计算机操作系统](https://github.com/CyC2018/CS-Notes/blob/master/notes/计算机操作系统%20-%20目录.md) 1170lines
-- [Linux](https://github.com/CyC2018/CS-Notes/blob/master/notes/Linux.md)
+- [计算机操作系统](https://github.com/CyC2018/CS-Notes/blob/master/notes/计算机操作系统%20-%20目录.md) 1170 lines
+- [Linux](https://github.com/CyC2018/CS-Notes/blob/master/notes/Linux.md) 1264 lines
 
 ## :cloud: 网络 
 
