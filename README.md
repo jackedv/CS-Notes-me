@@ -48,7 +48,7 @@
 
 ## :coffee: Java
 
-- [Java 基础](https://github.com/CyC2018/CS-Notes/blob/master/notes/Java%20基础.md) 1463
+- [Java 基础](https://github.com/jackedv/CS-Notes-me/blob/master/notes/Java%20基础.md) 1463
 - [Java 容器](https://github.com/CyC2018/CS-Notes/blob/master/notes/Java%20容器.md) 1133
 - [Java 并发](https://github.com/CyC2018/CS-Notes/blob/master/notes/Java%20并发.md) 1636
 - [Java 虚拟机](https://github.com/CyC2018/CS-Notes/blob/master/notes/Java%20虚拟机.md) 755
