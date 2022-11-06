@@ -27,7 +27,7 @@
 - [算法](https://github.com/CyC2018/CS-Notes/blob/master/notes/算法%20-%20目录.md)
 - [字节跳动内推](assets/内推.md)
 
-## :computer: 操作系统
+## :computer: 操作系统 1170lines
 
 - [计算机操作系统](https://github.com/CyC2018/CS-Notes/blob/master/notes/计算机操作系统%20-%20目录.md)
 - [Linux](https://github.com/CyC2018/CS-Notes/blob/master/notes/Linux.md)
